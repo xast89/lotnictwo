@@ -4,4 +4,5 @@
 public class Tetss {
 
     private String name;
+    private String nazwisko;
 }
