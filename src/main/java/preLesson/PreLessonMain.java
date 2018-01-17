@@ -22,7 +22,12 @@ public class PreLessonMain {
         System.out.println ("FirstObject age is: " +firstObject.getAge());
         System.out.println("secondObject age is: " +secondObject.getAge());
         System.out.println("thirdObject age is: " +thirdObject.getAge());
-        //TODO: display object's age
     }
+
+    //TODO: please create class Woman with 4 fields: int, double,String, boolean (for example: int age, String name... )
+    //TODO: create 4 constructors: with no param, with one param, with two params, with three params and one with all 4 params
+    //TODO: create getters for all 4 fields
+
+    //TODO: in PreLessonMain create one single object of Woman class (using contructor with 4 params) and display all value in console.
 
 }
