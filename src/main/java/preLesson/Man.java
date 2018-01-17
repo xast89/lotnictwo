@@ -5,7 +5,7 @@ package preLesson;
  */
 public class Man {
 
-    // fields must be private - please find out why.
+    // fields must be private - please find out why. Because the information can see only programmer
     private String name;
     private int age;
 
