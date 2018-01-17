@@ -19,9 +19,9 @@ public class PreLessonMain {
         System.out.println("SecondObject name is: " + secondObject.getName());
         System.out.println("thirdObject name is: " + thirdObject.getName());
 
-        System.out.println ("FirstObject age is" +firstObject.getAge());
-        System.out.println("secondObject age is" +secondObject.getAge());
-        System.out.println("thirdObject age is" +thirdObject.getAge());
+        System.out.println ("FirstObject age is: " +firstObject.getAge());
+        System.out.println("secondObject age is: " +secondObject.getAge());
+        System.out.println("thirdObject age is: " +thirdObject.getAge());
         //TODO: display object's age
     }
 
