@@ -5,12 +5,12 @@ package preLesson;
  */
 public class PreLessonMain {
 
-    public static void main(String[] args) {
+    public static void main(String[] args ) {
 
         // Here we star our small program
 
         // first we need to create new instance of Man class:
-        Man firstObject = new Man( "Pawel", 29);
+        Man firstObject = new Man("Pawel", 29);
         Man secondObject = new Man("Krzysiek", 55);
         Man thirdObject = new Man( "Jacek",  27);
         // display object's name
@@ -23,6 +23,9 @@ public class PreLessonMain {
         System.out.println("secondObject age is: " +secondObject.getAge());
         System.out.println("thirdObject age is: " +thirdObject.getAge());
     }
+    public static void woman(){woman();}
+
+        Woman firstperson = new Woman
 
     //TODO: please create class Woman with 4 fields: int, double,String, boolean (for example: int age, String name... )
     //TODO: create 4 constructors: with no param, with one param, with two params, with three params and one with all 4 params
