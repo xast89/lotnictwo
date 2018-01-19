@@ -1,6 +1,6 @@
 package preLesson;
 
-class Woman {
+public class Woman {
     private String name;
     private int age;
     private double growth;
