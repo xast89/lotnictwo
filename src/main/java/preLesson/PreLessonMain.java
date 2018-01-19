@@ -22,8 +22,10 @@ public class PreLessonMain {
         System.out.println ("FirstObject age is: " +firstObject.getAge());
         System.out.println("secondObject age is: " +secondObject.getAge());
         System.out.println("thirdObject age is: " +thirdObject.getAge());
+        
+        //This is constructor with 4 params
+        Woman firstWoman = new Woman("Kasia", 33, 1.98, true);
     }
-    public static void woman(){woman();}
 
         
 
