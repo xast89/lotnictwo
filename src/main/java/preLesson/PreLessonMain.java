@@ -25,7 +25,7 @@ public class PreLessonMain {
     }
     public static void woman(){woman();}
 
-        Woman firstperson = new Woman
+        
 
     //TODO: please create class Woman with 4 fields: int, double,String, boolean (for example: int age, String name... )
     //TODO: create 4 constructors: with no param, with one param, with two params, with three params and one with all 4 params
