@@ -15,7 +15,6 @@ public class Woman {
     public Woman (String name, int age,boolean adult) {
         this.name = name;
         this.age = age;
-        this.growth = growth;
         this.adult = adult;
     }
     public Woman (String name, double growth,boolean adult){
