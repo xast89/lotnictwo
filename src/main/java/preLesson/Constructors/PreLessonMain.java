@@ -30,7 +30,7 @@ public class PreLessonMain {
         Woman fourthWoman = new Woman(18, 170, true);
         Woman fifhtWoman = new Woman();
 
-    System.out.println("firstWoman name is" + firstWoman.getName() + " bla bla bla " + firstWoman.getAge()+ firstWoman.getGrowth()+ firstWoman.isAdult());
+    System.out.println( firstWoman.getAge() + "bla bla" + firstWoman.getAge()+ firstWoman.getGrowth()+ firstWoman.isAdult());
     }
 
 
