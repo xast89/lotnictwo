@@ -1,4 +1,4 @@
-package preLesson;
+package preLesson.Constructors;
 
 /**
  * Created by pawel on 17.01.18.
