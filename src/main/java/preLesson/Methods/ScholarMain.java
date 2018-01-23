@@ -11,7 +11,7 @@ public class ScholarMain {
         Scholar gandalf = new Scholar();
 
         double result = gandalf.adding(6.88, 1.62);
-        double resultdivision = gandalf.division(6.5,0.5);
+        double resultdivision = gandalf.division(6.5,0);
         double resultsubstraction = gandalf.subtraction(2018,1991);
         double resoltmultiplication = gandalf.multiplication(170, 77.4);
 
