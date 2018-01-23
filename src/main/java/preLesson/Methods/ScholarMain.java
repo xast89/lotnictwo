@@ -10,14 +10,22 @@ public class ScholarMain {
 
         Scholar gandalf = new Scholar();
 
-        double result = gandalf.adding(6.88, 1.62);
-        double resultdivision = gandalf.division(6.5,0);
-        double resultsubstraction = gandalf.subtraction(2018,1991);
-        double resoltmultiplication = gandalf.multiplication(170, 77.4);
+//        double result = gandalf.adding(6.88, 1.62);
+//        double resultdivision = gandalf.division(6.5,0);
+//        double resultsubstraction = gandalf.subtraction(2018,1991);
+//        double resoltmultiplication = gandalf.multiplication(170, 77.4);
+//
+//        System.out.println("Our multiplicatnion result is " + resoltmultiplication);
+//        System.out.println("Our substraction restult is" + resultsubstraction);
+//        System.out.println("Our division result is " + resultdivision);
+//        System.out.println("Our adding result is " + result);
 
-        System.out.println("Our multiplicatnion result is " + resoltmultiplication);
-        System.out.println("Our substraction restult is" + resultsubstraction);
-        System.out.println("Our division result is " + resultdivision);
-        System.out.println("Our adding result is " + result);
+        gandalf.isPossitive(-7);
+
+        gandalf.isPossitive(8);
+
+        gandalf.sprawdzamPrzedzialy(1);
+        gandalf.sprawdzamPrzedzialy(100);
+        gandalf.sprawdzamPrzedzialy(-10000);
     }
 }
