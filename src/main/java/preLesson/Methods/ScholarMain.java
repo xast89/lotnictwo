@@ -27,5 +27,8 @@ public class ScholarMain {
         gandalf.sprawdzamPrzedzialy(1);
         gandalf.sprawdzamPrzedzialy(100);
         gandalf.sprawdzamPrzedzialy(-10000);
+        gandalf.liczbyDodatnie(342);
+
+
     }
 }
